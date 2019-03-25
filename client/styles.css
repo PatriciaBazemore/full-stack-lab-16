@@ -1,0 +1,55 @@
+
+body {
+    background-color: lightskyblue
+}
+
+#chirpbox{
+    background-color: white;
+    color: gray;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    height: 4em;
+    margin: 0 auto;
+    border-bottom: 1em solid blue;
+    line-height: 4em;
+    vertical-align: middle;
+}
+
+
+#chirpfield {
+    background-color:lightgrey;
+    color: purple;
+    text-align: center;
+    justify-content: center;
+}
+
+#chirplist{
+    background-color:white;
+    color: grey;   
+    border: 1px solid purple;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+
+}
+
+#chirpbtn {
+    background-color: purple;
+    color: darkgrey;
+    border-radius: .25px;
+    text-align: center;
+    justify-content: center;
+}
+
+.deletebtn {
+
+}
+
+.chirp {
+    border-bottom: 1px solid black; 
+    padding: 2em 1em;
+    position: relative;
+}
